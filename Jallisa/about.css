@@ -1,0 +1,55 @@
+nav{
+    font-family: 'Cinzel', serif;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: white;
+    
+   
+}
+ul{
+    display: flex;
+    gap: 50px;
+    
+
+}
+li{
+    list-style-type: none;}
+ a{
+text-decoration: none;
+color: black;
+ }
+header{
+    position: sticky;
+    top: 0px;
+}
+.txt-box{
+    width: max-content;
+    width: 1000px;
+    top: 100px;
+    font-family: 'Cinzel', serif;
+    background-color: rgb(221, 221, 221);
+    left: 1200px;
+}
+
+.bothh{
+    display: flex;
+    text-align: center;
+    
+}
+.icon-box{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.icon-box div{
+    display: flex;
+    
+}
+i{
+    font-size: 25px;
+    
+}
+p{
+    text-align: center;
+}

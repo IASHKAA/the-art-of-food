@@ -1,0 +1,100 @@
+
+nav{
+        font-family: 'Cinzel', serif;
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        background-color: white;
+        
+       
+    }
+ul{
+        display: flex;
+        gap: 50px;
+        
+    
+    }
+li{
+        list-style-type: none;}
+a{
+    text-decoration: none;
+    color: black;
+     }
+header{
+        position: sticky;
+        top: 0px;
+}
+button{
+        font-size: 20px;
+        background-color: transparent;
+        border: 1px solid ;
+        padding: 11px 15px;
+        font-family: 'Cinzel', serif;
+    
+    }
+button:hover{
+        border-color: rgb(17, 43, 65);
+        background-color: rgb(17, 43, 65);
+        transition: 0.7s;
+ }
+ .box-1{
+        background-color: rgb(200, 200, 200);
+        width: 1200px;
+        
+        
+
+ }
+ .box-2{
+        background-color: rgb(200, 200, 200);
+        
+ }
+ .box-3{
+        background-color: rgb(200, 200, 200);
+        
+        
+ }
+ .titlee{
+        text-align: center;
+    font-size: 40px;
+    letter-spacing: 5px;
+ }
+ .Gallery{
+        display: flex;
+        justify-content: center;
+        
+        
+ }
+img{
+        margin-left: 300px;
+        margin-top: -300px;
+}
+h1{
+        font-size: 30px;
+}
+.dolla{
+        font-size: 50px;
+}
+.dolla2{
+        font-size: 50px;
+}
+.dolla3{
+        font-size: 50px;
+}
+.icon-box{
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    .icon-box div{
+        display: flex;
+        
+    }
+    i{
+        margin-top: 10px;
+        font-size: 25px;
+        
+    }
+    .wwix{
+        text-align: center;
+    }
+    
